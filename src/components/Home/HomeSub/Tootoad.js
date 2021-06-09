@@ -52,7 +52,7 @@ class Tootoad extends Component {
  				<div className="et_pb_module et_pb_video et_pb_video_0">
 
 
- 				<div className="et_pb_video_box"><iframe title="360Player - How It Works" width="1080" height="608" src="https://www.youtube.com/embed/yhydNwW9heY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ 				<div className="et_pb_video_box"><iframe title="360Player - How It Works" width="1080" height="608" src="https://www.youtube.com/embed/yhydNwW9heY?feature=oembed" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
 
  			</div>
  			</div>
@@ -85,8 +85,7 @@ class Tootoad extends Component {
  				<div className="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint et_pb_image_sticky">
 
 
- 				<span className="et_pb_image_wrap "><
-        img loading="lazy" src="../../../ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png" alt="" title="club methodology" height="auto" width="auto" srcset="https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png 1033w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-980x652.png 980w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-480x319.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1033px, 100vw" className="wp-image-52121" /></span>
+ 				<span className="et_pb_image_wrap "><img loading="lazy" src="../../../ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png" alt="" title="club methodology" height="auto" width="auto" srcSet="https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png 1033w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-980x652.png 980w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-480x319.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1033px, 100vw" className="wp-image-52121" /></span>
  			</div>
  			</div>
 

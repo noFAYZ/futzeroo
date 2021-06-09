@@ -58,7 +58,7 @@ import React, { Component } from 'react'
 
 
     <div className="et_pb_row et_pb_row_7">
-<div className="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div className="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child" style={{paddingTop: '140px'}}>
 
 
 <div className="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
@@ -245,7 +245,7 @@ import React, { Component } from 'react'
 </div>
 </div>
 
-<div className="et_pb_column et_pb_column_1_4 et_pb_column_6 step-table-col  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div className="et_pb_column et_pb_column_1_4 et_pb_column_6 step-table-col  et_pb_css_mix_blend_mode_passthrough">
 
 
 <div className="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
