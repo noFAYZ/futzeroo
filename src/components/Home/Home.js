@@ -217,7 +217,7 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><h3 style={{textAlign: 'left'}}>Forældre</h3>
+<div className="et_pb_text_inner"><h3 style={{textAlign: 'left'}}>Lapsevanmead</h3>
 </div><p><img src="images/People36D_generated.jpg" height="80px" alt=""/></p>
 </div> <div className="et_pb_module et_pb_text et_pb_text_8 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
@@ -276,8 +276,8 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><h3 style={{textAlign: 'center'}}>Kas vajate pardaletulekuks täiendavat abi?</h3>
-<p style={{textAlign: 'center'}}>Külasta meie abikeskust saidil futzero.com, kust leiate tugiartiklid ja saate ühendust meie tugitiimiga.</p></div>
+<div className="et_pb_text_inner"><h3 style={{textAlign: 'center'}}>Kas soovite tohkem teada?</h3>
+<p style={{textAlign: 'center'}}>Kirjutage meile info@futzero.com</p></div>
 </div>
 </div>
 
@@ -385,8 +385,8 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_text et_pb_text_26  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><h2 style={{textAlign: 'center'}}><span>Player development</span></h2>
-<p style={{textAlign: 'center'}}><span>We provide all the tools you need to take your player development to the next level. Assess your players, generate training programs and provide feedback in no time.</span></p></div>
+<div className="et_pb_text_inner"><h2 style={{textAlign: 'center'}}><span>Mängija arendamine</span></h2>
+<p style={{textAlign: 'center'}}><span>Futzero pakub erinevaid tööriistu, et mängijate mentaalne areng uuele tasemele viia.</span></p></div>
 </div>
 </div>
 
