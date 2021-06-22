@@ -11,9 +11,7 @@ import Section7 from './Section7';
 class Home extends Component {
     render() {
         return (
-
-
-            
+ 
             <article id="post-47822" className="post-47822 page type-page status-publish hentry">
 
                 <div className="entry-content">
@@ -39,8 +37,6 @@ class Home extends Component {
 
                         </div>
 
-
-
                 </div>
 
             <span className="et_bloom_bottom_trigger"></span>					
@@ -48,8 +44,6 @@ class Home extends Component {
 
 
             </article>
-
-
 
             )
     }
