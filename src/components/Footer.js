@@ -9,30 +9,12 @@ export class Footer extends Component {
         Path: '',
       },
 
-      Carrer: {
-        Name: 'Carrer',
-        Path: '',
-      },
-
-      Press: {
-        Name: 'Press',
-        Path: '',
-      },
 
       Contact: {
-        Name: 'contact us',
+        Name: 'Kontakt',
         Path: '',
       },
 
-      Term: {
-        Name: 'Terms of Service',
-        Path: '',
-      },
-
-      privacy: {
-        Name: 'Privacy Policy',
-        Path: '',
-      },
     }
   }
     render() {

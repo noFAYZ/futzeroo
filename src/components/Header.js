@@ -36,15 +36,13 @@ export class Header extends Component {
   <li id="menu-item-49559" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49559"><a target="_blank" rel="noopener" href="/#">Help Center</a>
   <ul className="sub-menu">
   	<li id="menu-item-55024" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-55024"><a target="_blank" rel="noopener" href="/#/">Abi</a></li>
-  	<li id="menu-item-55023" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-55023"><a href="onboarding/index.html">Onboarding guide</a></li>
   </ul>
   </li>
   <li id="menu-item-54926" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54926"><a href="/#">Ettevõttest</a>
   <ul className="sub-menu">
-  	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><a href="about/index.html">About Us</a></li>
-  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="/#">Blog</a></li>
-  	<li id="menu-item-54929" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54929"><a href="press/index.html">Press</a></li>
-  	<li id="menu-item-54930" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54930"><a href="contact/index.html">Contact</a></li>
+  	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><a href="about/index.html">Ettevõttest</a></li>
+  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="/#">blogi</a></li>
+  	<li id="menu-item-54930" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54930"><a href="contact/index.html">kontakteeru meiege</a></li>
   </ul>
   </li>
   <li id="menu-item-114" className="button-item menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="/#"><span className="login-button">Logi sisse</span></a></li>
@@ -59,13 +57,7 @@ export class Header extends Component {
   					</div>
   				</div>
   			</div>
-  			<div className="et_search_outer">
-  				<div className="container et_search_form_container">
-  					<form role="search" method="get" className="et-search-form" action="/">
-  					<input type="search" className="et-search-field" placeholder="Search &hellip;"  name="s" title="Search for:" />					</form>
-  					<span className="et_close_search_field"></span>
-  				</div>
-  			</div>
+  		
   		</header>
           )
     }
