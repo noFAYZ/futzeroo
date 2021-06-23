@@ -33,11 +33,7 @@ export class Header extends Component {
   </ul>
   </li>
   <li id="menu-item-53427" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-53427"><a href="pricing-detect/index.html">Paketid</a></li>
-  <li id="menu-item-49559" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49559"><a target="_blank" rel="noopener" href="/#">Help Center</a>
-  <ul className="sub-menu">
-  	<li id="menu-item-55024" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-55024"><a target="_blank" rel="noopener" href="/#/"></a>Abi</li>
-  </ul>
-  </li>
+ 
   <li id="menu-item-54926" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54926"><a href="/#">Ettevõttest</a>
   <ul className="sub-menu">
   	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><Link to="/about">Ettevõttest </Link></li>
