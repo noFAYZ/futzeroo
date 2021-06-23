@@ -12,14 +12,14 @@ import React, { Component } from 'react'
           <div className="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
             <div className="et_pb_row et_pb_row_0">
               <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
-                <div className="et_pb_module et_pb_text et_pb_text_0 et_animated  et_pb_text_align_center et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}>Spordipsühholoogia <br /> <span>töötoad</span></h1></div>
+                <div className="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}>Spordipsühholoogia <br /> <span style={{color:'#40E0D0'}}>töötoad</span></h1></div>
                 </div> 
-                <div className="et_pb_module et_pb_text et_pb_text_1 et_animated  et_pb_text_align_center et_pb_bg_layout_light">
+                <div className="et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_left et_pb_bg_layout_light">
                   <div className="et_pb_text_inner"><p className="intro-hero" style={{textAlign: 'left'}}><span>Futzero ühendab nii mängijaid, treenereid, klubisid, lapsevanemaid ning tervet jalgpalliringkonda.</span></p></div>
                 </div> {/* .et_pb_text */}
                 <div className="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_module ">
-                  <a className="et_pb_button et_pb_button_0 et_animated et_hover_enabled et_pb_bg_layout_light" href="#">Try Free!</a>
+                  <a className="et_pb_button et_pb_button_0  et_hover_enabled et_pb_bg_layout_light" href="#">Try Free!</a>
                 </div><div className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
                 </div> 
               </div> 
@@ -40,7 +40,7 @@ import React, { Component } from 'react'
                   </div>
                 </div> {/* .et_pb_text */}
               </div> {/* .et_pb_column */}<div className="et_pb_column et_pb_column_1_2 et_pb_column_8 vertical-align  et_pb_css_mix_blend_mode_passthrough et-last-child">
-                <div className="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint et_pb_image_sticky">
+                <div className="et_pb_module et_pb_image et_pb_image_3 et-waypoint et_pb_image_sticky">
                   <span className="et_pb_image_wrap "><img loading="lazy" src="../../../ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png" alt title="club methodology" height="auto" width="auto" srcSet="https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology.png 1033w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-980x652.png 980w, https://ts-uploads.azureedge.net/marketing/2020/10/club-methodology-480x319.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1033px, 100vw" className="wp-image-52121" /></span>
                 </div>
               </div> 
@@ -48,7 +48,7 @@ import React, { Component } from 'react'
           
             <div className="et_pb_row et_pb_row_5 et_pb_equal_columns">
               <div className="et_pb_column et_pb_column_1_2 et_pb_column_9 vertical-align  et_pb_css_mix_blend_mode_passthrough">
-                <div className="et_pb_module et_pb_image et_pb_image_5 et_animated et-waypoint et_pb_image_sticky">
+                <div className="et_pb_module et_pb_image et_pb_image_5 et-waypoint et_pb_image_sticky">
                   <span className="et_pb_image_wrap ">
                     <img src="/images/GDPR3.png" height="100"  className="wp-image-48322" /></span>
                 </div>

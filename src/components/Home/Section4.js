@@ -34,7 +34,7 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_image et_pb_image_7">
 
 
-<span className="et_pb_image_wrap "><img loading="lazy" src="images/prof_1.jpg" alt="futzero" title="Adam" height="auto" width="auto" className="wp-image-54521" border-radius= "50%"/></span>
+<span className="et_pb_image_wrap "><img loading="lazy" src="images/1.png" alt="futzero" title="Adam" height="auto" width="auto" className="wp-image-54521" border-radius= "50%"/></span>
 </div><div className="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
 
 
@@ -43,7 +43,7 @@ import React, { Component } from 'react'
 
 
 <div className="et_pb_text_inner"><p style={{textAlign: 'center', fontWeight: 'bold'}}>Spordipsühholoogid<br />
-<span style={{fontSize:'15px',fontWeight:'500', color: '#8C93A5'}}>Coach U17, IFK Stocksund</span></p></div>
+<span style={{fontSize:'15px',fontWeight:'500', color: '#8C93A5'}}></span></p></div>
 </div>
 </div> <div className="et_pb_column et_pb_column_1_3 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
 
@@ -51,7 +51,7 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_image et_pb_image_8">
 
 
-<span className="et_pb_image_wrap "><img loading="lazy" src="https://futzero.com/static/82e917dbebf87c284f5cb29d1382cb1a/87330/prof_2.jpg" alt="futzero" title="Hasse" height="auto" width="auto"  sizes="(max-width: 192px) 100vw, 192px" className="wp-image-54522" /></span>
+<span className="et_pb_image_wrap "><img loading="lazy" src="images/2.png" alt="futzero" title="Hasse" height="auto" width="auto"  sizes="(max-width: 192px) 100vw, 192px" className="wp-image-54522" /></span>
 </div><div className="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_left et_pb_bg_layout_light">
 
 
@@ -59,7 +59,7 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p style={{textAlign: 'center', fontWeight: 'bold'}}>Hans Backe<br /> <span style={{fontSize: '15px', font: '500', color: '#8c93a5'}}>Former coach <span>New York Red Bulls, </span>Manchester City, Mexico National Team, and many more<br /> </span></p></div>
+<div className="et_pb_text_inner"><p style={{textAlign: 'center', fontWeight: 'bold'}}>Karjääriplaneerijad<br /> <span style={{fontSize: '15px', font: '500', color: '#8c93a5'}}></span></p></div>
 </div>
 </div> <div className="et_pb_column et_pb_column_1_3 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
 
@@ -67,7 +67,7 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_image et_pb_image_9">
 
 
-<span className="et_pb_image_wrap "><img loading="lazy" src="https://futzero.com/static/303418441c41e25e7ac4e4149c4bb983/87330/prof_3.jpg" alt="futzero" title="Nacho" height="auto" width="auto" srcSet="https://futzero.com/static/303418441c41e25e7ac4e4149c4bb983/87330/prof_3.jpg 186w, https://futzero.com/static/303418441c41e25e7ac4e4149c4bb983/87330/prof_3.jpg 150w" sizes="(max-width: 186px) 100vw, 186px" className="wp-image-54523" /></span>
+<span className="et_pb_image_wrap "><img loading="lazy" src="images/3.png" alt="futzero" title="Nacho" height="auto" width="auto" sizes="(max-width: 186px) 100vw, 186px" className="wp-image-54523" /></span>
 </div><div className="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_left et_pb_bg_layout_light">
 
 
@@ -75,8 +75,8 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_module et_pb_text et_pb_text_22  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p style={{textAlign: 'center', fontWeight: 'bold'}}>Nacho de Prada<br />
-<span style={{fontSize:'15px',fontWeight:'500', color: '#8C93A5'}}>Sports director Racing Sárria C.F.<br />
+<div className="et_pb_text_inner"><p style={{textAlign: 'center', fontWeight: 'bold'}}>Füsiod ja eratreenerid<br />
+<span style={{fontSize:'15px',fontWeight:'500', color: '#8C93A5'}}>
 </span></p></div>
 </div>
 </div>

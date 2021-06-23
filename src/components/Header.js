@@ -35,18 +35,18 @@ export class Header extends Component {
   <li id="menu-item-53427" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-53427"><a href="pricing-detect/index.html">Paketid</a></li>
   <li id="menu-item-49559" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49559"><a target="_blank" rel="noopener" href="/#">Help Center</a>
   <ul className="sub-menu">
-  	<li id="menu-item-55024" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-55024"><a target="_blank" rel="noopener" href="/#/">Abi</a></li>
+  	<li id="menu-item-55024" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-55024"><a target="_blank" rel="noopener" href="/#/"></a>Abi</li>
   </ul>
   </li>
   <li id="menu-item-54926" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54926"><a href="/#">Ettevõttest</a>
   <ul className="sub-menu">
-  	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><a href="about/index.html">Ettevõttest</a></li>
-  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="/#">blogi</a></li>
+  	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><Link to="/about">Ettevõttest </Link></li>
+  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="https://sportsunite.eu/blog/">blogi</a></li>
   	<li id="menu-item-54930" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54930"><a href="contact/index.html">kontakteeru meiege</a></li>
   </ul>
   </li>
   <li id="menu-item-114" className="button-item menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="/#"><span className="login-button">Logi sisse</span></a></li>
-  <li id="menu-item-51738" className="button-item menu-item menu-item-type-custom menu-item-object-custom menu-item-51738"><a href="/#"><span className="cta-button">Registreeri</span></a></li>
+  <li id="menu-item-51738" className="button-item menu-item  menu-item-type-custom menu-item-object-custom menu-item-51738"><a href="/#"><span className="cta-button">Registreeri</span></a></li>
   </ul>						</nav>
 
   					<div id="et_mobile_nav_menu">

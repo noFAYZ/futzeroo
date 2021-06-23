@@ -17,8 +17,8 @@ import React, { Component } from 'react'
 <div className="et_pb_module et_pb_text et_pb_text_26  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><h2 style={{textAlign: 'center'}}><span>Player development</span></h2>
-<p style={{textAlign: 'center'}}><span>We provide all the tools you need to take your player development to the next level. Assess your players, generate training programs and provide feedback in no time.</span></p></div>
+<div className="et_pb_text_inner"><h2 style={{textAlign: 'center'}}><span>Mängija arendamine</span></h2>
+<p style={{textAlign: 'center'}}><span>Futzero pakub erinevaid tööriistu, et mängijate mentaalne areng uuele tasemele viia.</span></p></div>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ import React, { Component } from 'react'
 
 
 <div className="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
-<a className="et_pb_button et_pb_button_5 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://360player.com/pricing-detect">	Alustage oma isikute arendamist!</a>
+<a className="et_pb_button et_pb_button_5 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://360player.com/pricing-detect">	Registreeri oma huvi juba täna!</a>
 </div>
 </div>
 
