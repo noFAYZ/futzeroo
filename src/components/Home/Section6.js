@@ -19,7 +19,7 @@ import React, { Component } from 'react'
 <div className="et_pb_text_inner"><h2 style={{textAlign: 'center'}}><span style={{color: '#ffffff'}}>Alustage juba täna!				</span></h2>
 <p style={{textAlign: 'center'}}>	Proovige Futzerot kohe!</p></div>
 </div> <div className="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_center et_pb_module ">
-<a className="et_pb_button et_pb_button_7 et_animated et_hover_enabled et_pb_bg_layout_light" href="pricing-detect/index.html">Alusta kohe!
+<a className="et_pb_button et_pb_button_7  et_hover_enabled et_pb_bg_layout_light" href="pricing-detect/index.html">Alusta kohe!
 </a>
 </div>
 </div>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import { Link } from 'react-router-dom';
 
  class Section3 extends Component {
     render() {
@@ -41,7 +41,7 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_module et_pb_text et_pb_text_5 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><a href="/#">LOE ROHKEM -&gt;</a></p></div>
+<div className="et_pb_text_inner"><p><Link to="/Mangijale">LOE ROHKEM </Link></p></div>
 </div>
 </div>
 

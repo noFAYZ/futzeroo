@@ -37,7 +37,7 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_column et_pb_column_1_2 et_pb_column_36 vertical-align  et_pb_css_mix_blend_mode_passthrough et-last-child">
 
 
-<div className="et_pb_module et_pb_image et_pb_image_12 et_animated et-waypoint et_pb_image_sticky">
+<div className="et_pb_module et_pb_image et_pb_image_12 et_pb_image_sticky">
 
 
 <span className="et_pb_image_wrap "><img loading="lazy" src="images/N2.svg" alt="futzero" title="PositionMatch-Small-2" height="auto" width="auto" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 502px, 100vw" className="wp-image-54526" /></span>
@@ -45,11 +45,12 @@ import React, { Component } from 'react'
 </div>
 
 
-</div> <div className="et_pb_row et_pb_row_23 et_pb_equal_columns">
+</div>
+ <div className="et_pb_row et_pb_row_23 et_pb_equal_columns" >
 <div className="et_pb_column et_pb_column_1_2 et_pb_column_37 vertical-align  et_pb_css_mix_blend_mode_passthrough">
 
 
-<div className="et_pb_module et_pb_image et_pb_image_13 et_animated et-waypoint et_pb_image_sticky">
+<div className="et_pb_module et_pb_image et_pb_image_13 et_pb_image_sticky">
 
 
 <span className="et_pb_image_wrap "><img loading="lazy" src="images/Neutral%20Website%20Rebrand%20Launch%20Your%20Story.svg" alt="futzero" title="Profile" height="auto" width="auto" sizes="(max-width: 385px) 100vw, 385px" className="wp-image-54527" /></span>
@@ -80,7 +81,7 @@ import React, { Component } from 'react'
 </div> <div className="et_pb_column et_pb_column_1_2 et_pb_column_40 vertical-align  et_pb_css_mix_blend_mode_passthrough et-last-child">
 
 
-<div className="et_pb_module et_pb_image et_pb_image_14 et_animated et-waypoint et_pb_image_sticky">
+<div className="et_pb_module et_pb_image et_pb_image_14 et_pb_image_sticky">
 
 
 <span className="et_pb_image_wrap "><img loading="lazy" src="images/N1.svg" alt="futzero" title="review10" height="auto" width="auto"  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 570px, 100vw" className="wp-image-54528" /></span>

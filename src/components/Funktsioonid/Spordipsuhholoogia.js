@@ -13,11 +13,11 @@ import React, { Component } from 'react'
             <div className="et_pb_row et_pb_row_0">
               <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
                 <div className="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}>Spordipsühholoogia <br /> <span className="yellow">kursused</span></h1></div>
+                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}>Spordipsühholoogia <br /> <span className="yellow">Kursused</span></h1></div>
                 </div> {/* .et_pb_text */}<div className="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
                   <div className="et_pb_text_inner"><p className="intro-hero" style={{textAlign: 'left'}}><span>Futzero ühendab nii mängijaid, treenereid, klubisid, lapsevanemaid ning tervet jalgpalliringkonda.</span></p></div>
                 </div> {/* .et_pb_text */}<div className="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_module ">
-                  <a className="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_light" href="#">Try Free!</a>
+                  <a className="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_light" href="#">Proovi järgi!</a>
                 </div><div className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
                 </div> {/* .et_pb_text */}
               </div> {/* .et_pb_column */}<div className="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -29,7 +29,7 @@ import React, { Component } from 'react'
             <div className="et_pb_bottom_inside_divider et-no-transition" />
           </div> 
           {/* .et_pb_section */}
-          <div className="et_pb_section et_pb_section_2 et_section_regular">
+          <div className="et_pb_section et_pb_section_1 et_section_regular">
             <div className="et_pb_row et_pb_row_4">
               <div className="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
                 <div className="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">

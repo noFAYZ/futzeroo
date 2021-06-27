@@ -2451,12 +2451,10 @@ div.et_pb_section.et_pb_section_11 {
 }
 
 .et_pb_row_0.et_pb_row {
-	padding-top: 140px!important;
-
+	padding-top: 200px!important;
 	margin-left: auto!important;
 	margin-right: auto!important;
-	padding-top: 140px;
-	
+
 }
 
 .et_pb_row_4.et_pb_row {
@@ -2923,7 +2921,7 @@ div.et_pb_section.et_pb_section_11 {
 		transform: rotateY(180deg) rotateX(0)
 	}
 	.et_pb_row_0.et_pb_row {
-		padding-top: 82px!important;
+		padding-top: 120px!important;
 		padding-right: 0%!important;
 		padding-bottom: 77px!important;
 		padding-left: 0%!important;

@@ -20,17 +20,17 @@ import React, { Component } from 'react'
 
 
 <div className="et_pb_text_inner"><div tx-content="translate_urls"><a className="vp-s vp-yt-type" href="https://www.youtube.com/watch?v=9TgjzjuY5NQ" data-dwrap="1" style={{color: '#fff', fontSize: '20px', fontWeight: '600'}} >Play video</a></div></div>
-</div> <div className="et_pb_module et_pb_text et_pb_text_2 et_animated  et_pb_text_align_center et_pb_bg_layout_light">
+</div> <div className="et_pb_module et_pb_text et_pb_text_2   et_pb_text_align_center et_pb_bg_layout_light">
 
 
 <div className="et_pb_text_inner"><h1>Noortest sõltub tulevik.<br />
 <span className="yellow">Arendame neid teadlikult</span></h1></div>
-</div><div className="et_pb_module et_pb_text et_pb_text_3 et_animated  et_pb_text_align_center et_pb_bg_layout_light">
+</div><div className="et_pb_module et_pb_text et_pb_text_3   et_pb_text_align_center et_pb_bg_layout_light">
 
 
 <div className="et_pb_text_inner"><p className="intro-hero">Kõik ühes rakendus muudab noorte arendamise märkimisväärselt lihtsamaks. Väike riik, suured sihid – muudame jalgpallikultuuri professionaalsemaks.</p></div>
 </div> <div className="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
-<a className="et_pb_button et_pb_button_0 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://360player.com/pricing-detect">Vali endale sobiv pakett!</a>
+<a className="et_pb_button et_pb_button_0  et_hover_enabled et_pb_bg_layout_light" href="https://360player.com/pricing-detect">Vali endale sobiv pakett!</a>
 </div><div className="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
 
 </div>

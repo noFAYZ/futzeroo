@@ -23,13 +23,13 @@ export class Header extends Component {
 
   </ul>
   </li>
-  <li id="menu-item-54269" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54269"><a href="/#">Lahendused</a>
+  <li id="menu-item-54269" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54269"><Link to="/lahendused">Lahendused </Link>
   <ul className="sub-menu">
-  	<li id="menu-item-54270" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54270"><Link to="/">Mängijale </Link></li>
-  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/">Treeneritele </Link></li>
-  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/">Lapsevanemale  </Link></li>
-  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/">Klubidele  </Link></li>
-  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/">Jalgpalliliidule  </Link></li>
+  	<li id="menu-item-54270" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54270"><Link to="/Mangijale">Mängijale </Link></li>
+  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/treeneritele">Treeneritele </Link></li>
+  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/lapsevanemale">Lapsevanemale  </Link></li>
+  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/klubidele">Klubidele  </Link></li>
+  	<li id="menu-item-54271" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-54271"><Link to="/jalgpalliliidule">Jalgpalliliidule  </Link></li>
   </ul>
   </li>
   <li id="menu-item-53427" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-53427"><a href="pricing-detect/index.html">Paketid</a></li>
@@ -37,8 +37,8 @@ export class Header extends Component {
   <li id="menu-item-54926" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54926"><a href="/#">Ettevõttest</a>
   <ul className="sub-menu">
   	<li id="menu-item-54928" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54928"><Link to="/about">Ettevõttest </Link></li>
-  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="https://sportsunite.eu/blog/">blogi</a></li>
-  	<li id="menu-item-54930" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54930"><a href="contact/index.html">kontakteeru meiege</a></li>
+  	<li id="menu-item-54927" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54927"><a href="https://sportsunite.eu/blog/">Blogi</a></li>
+  	<li id="menu-item-54930" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-54930"><Link to="/contact">Kontakteeru Meiega</Link></li>
   </ul>
   </li>
   <li id="menu-item-114" className="button-item menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="/#"><span className="login-button">Logi sisse</span></a></li>
