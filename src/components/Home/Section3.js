@@ -41,7 +41,7 @@ import { Link } from 'react-router-dom';
 </div> <div className="et_pb_module et_pb_text et_pb_text_5 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><Link to="/Mangijale">LOE ROHKEM </Link></p></div>
+<div className="et_pb_text_inner"><p><Link to="/Mangijale">LOE ROHKEM -&gt;</Link></p></div>
 </div>
 </div>
 
@@ -61,7 +61,7 @@ import { Link } from 'react-router-dom';
 </div><div className="et_pb_module et_pb_text et_pb_text_8 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><a href="/#">LOE ROHKEM -&gt;</a></p></div>
+<div className="et_pb_text_inner"><p><Link to="/treeneritele">LOE ROHKEM -&gt;</Link></p></div>
 </div>
 </div>
 
@@ -80,7 +80,7 @@ import { Link } from 'react-router-dom';
 </div> <div className="et_pb_module et_pb_text et_pb_text_8 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><a href="">LOE ROHKEM -&gt;</a></p></div>
+<div className="et_pb_text_inner"><p><Link to="/lapsevanemale">LOE ROHKEM -&gt;</Link></p></div>
 </div>
 </div>
 
@@ -99,7 +99,7 @@ import { Link } from 'react-router-dom';
 </div> <div className="et_pb_module et_pb_text et_pb_text_11 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><a href="">LOE ROHKEM -&gt;</a></p></div>
+<div className="et_pb_text_inner"><p><Link to="/klubidele">LOE ROHKEM -&gt;</Link></p></div>
 </div>
 </div>
 
@@ -118,7 +118,7 @@ import { Link } from 'react-router-dom';
 </div> <div className="et_pb_module et_pb_text et_pb_text_14 step-table-link  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><p><a href="/#">LOE ROHKEM -&gt;</a></p></div>
+<div className="et_pb_text_inner"><p><Link to="/jalgpalliliidule">LOE ROHKEM -&gt;</Link></p></div>
 </div>
 </div>
 
