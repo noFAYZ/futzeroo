@@ -13,7 +13,7 @@ import React, { Component } from 'react'
             <div className="et_pb_row et_pb_row_0">
               <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
                 <div className="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}>Kursused <br /></h1></div>
+                  <div className="et_pb_text_inner"><h1 style={{textAlign: 'left'}}><span style={{color:'#40E0D0'}}>Kursused </span><br /></h1></div>
                 </div> <div className="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
                   <div className="et_pb_text_inner"><p className="intro-hero" style={{textAlign: 'left'}}><span>Futzero ühendab nii mängijaid, treenereid, klubisid, lapsevanemaid ning tervet jalgpalliringkonda.</span></p></div>
                 </div> <div className="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_module ">

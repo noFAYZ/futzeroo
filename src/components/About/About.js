@@ -1,6 +1,7 @@
 	
 			import React, { Component } from 'react'
-
+      import Section6 from '../Home/Section6';
+      import Section7 from '../Home/Section7';
 
             class About extends Component {
                render() {
@@ -10,23 +11,34 @@
     <div id="et-boc" className="et-boc">
       <div className="et-l et-l--post">
         <div className="et_builder_inner_content et_pb_gutters3">
-          <div className="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
-            <div className="et_pb_row et_pb_row_0">
-              <div className="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-                <div className="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><h2><span className="yellow">Ettevõttest</span></h2></div>
-                </div> {/* .et_pb_text */}<div className="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><p style={{textAlign: 'center'}}><span style={{color: '#e3eff9'}}> <span style={{fontFamily: 'inherit'}}>Futzero missioon on lihtne ja julge: muuta noortespordi kultuuri, pakkudes võimsaid õppevahendeid, et varustada noori sportlasi vajalike teadmistega, mis arendavad nende oskusi ja paika sättida põhiväärtusi, olemaks edukas nii väljakul kui ka väljaspool seda. Samuti on Futzerost abi ka lastevanematele, treeneritele kui ka klubidele.</span></span></p></div>
-                </div> {/* .et_pb_text */}
-              </div> {/* .et_pb_column */}
-            </div> {/* .et_pb_row */}
-            <div className="et_pb_bottom_inside_divider et-no-transition" />
-          </div> {/* .et_pb_section */}
-          <div className="et_pb_section et_pb_section_1 padding-override et_pb_with_background et_section_regular">
+         
+        <div className="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_section_first" data-fix-page-container="on" style={{paddingTop: '80px'}}>
+  <div className="et_pb_row et_pb_row_0">
+    <div className="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+      <div className="et_pb_module et_pb_text et_pb_text_0 et_pb_text_align_left et_pb_bg_layout_light et_had_animation" style={{}} data-animation-style="slideBottom" data-animation-repeat data-animation-duration="450ms" data-animation-delay="0ms" data-animation-intensity="11%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+        <div className="et_pb_text_inner">
+          <h1><span className="yellow">Ettevõttest</span></h1></div>
+      </div> {/* .et_pb_text */}<div className="et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_center et_pb_bg_layout_light et_had_animation" style={{}} data-animation-style="slideBottom" data-animation-repeat data-animation-duration="350ms" data-animation-delay="200ms" data-animation-intensity="10%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+        <div className="et_pb_text_inner"><p className="intro-hero">Futzero missioon on lihtne ja julge: muuta noortespordi kultuuri, pakkudes võimsaid õppevahendeid, et varustada noori sportlasi vajalike teadmistega, mis arendavad nende oskusi ja paika sättida põhiväärtusi, olemaks edukas nii väljakul kui ka väljaspool seda. Samuti on Futzerost abi ka lastevanematele, treeneritele kui ka klubidele.</p></div>
+      </div> {/* .et_pb_text */}
+    </div> {/* .et_pb_column */}<div className="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+      <div className="et_pb_module et_pb_video et_pb_video_0">
+        <div className="et_pb_video_box"><div className="fluid-width-video-wrapper" style={{paddingTop: '56.2963%'}}><iframe title="Onboarding Video | Resources & Info For Getting Started With 360Player" src="https://www.youtube.com/embed/SlOun2O6Fvk?feature=oembed" frameBorder={0} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen name="fitvid0" /></div></div>
+      </div>
+    </div> {/* .et_pb_column */}
+  </div> {/* .et_pb_row */}
+  <div className="et_pb_bottom_inside_divider" style={{}} />
+</div>
+
+
+  
+
+         
+          <div className="et_pb_section et_pb_section_4 padding-override et_pb_with_background et_section_regular">
             <div className="et_pb_row et_pb_row_1 reverse et_pb_equal_columns">
-              <div className="et_pb_column et_pb_column_1_2 et_pb_column_1 vertical-align  et_pb_css_mix_blend_mode_passthrough">
+              <div className="et_pb_column et_pb_column_4_4 et_pb_column_14 vertical-align  et_pb_css_mix_blend_mode_passthrough">
                 <div className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
-                  <div className="et_pb_text_inner"><h3>Futzeo põhineb mitmetel nurgakivilidel:</h3>
+                  <div className="et_pb_text_inner"><h3 className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_light">Futzeo põhineb mitmetel nurgakivilidel:</h3>
                     <p>
                       <ul>
                         <li>	Mentaalse poole arendamine</li>
@@ -43,12 +55,13 @@
                         </ul>
                     
                       </p>
-                      <h3>Mida pakume?</h3>
+                      </div></div>
+                      <div className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+                  <div className="et_pb_text_inner">
+                      <h4 className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_light">Mida pakume?</h4>
                       <p>Pakume tõhusaid õppevahendeid: õppekava stiilis tunde, kaasahaaravaid videoid, oma ala spetsialistidega eratunde ja palju muud.</p>
 
-                      <h3>Miks me seda teeme?</h3>
-                      <p>Usume, et sport rikastab meie noorte elu. See võib aidata neil arendada oskusi ja iseloomu, mis annab neile püsiva edu, et olla meie tulevased juhid. On üsna keeruline mõista, miks üliedukad treenerid, kontrollimatud vanemad ning võidusurve all lapsed põlevad mingil hetkel lihtsalt läbi.</p>
-
+                      <h4 className="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_light"> Miks me seda teeme?</h4>
                       <p>Usume, et sport rikastab meie noorte elu. See võib aidata neil arendada oskusi ja iseloomu, mis annab neile püsiva edu, et olla meie tulevased juhid. On üsna keeruline mõista, miks üliedukad treenerid, kontrollimatud vanemad ning võidusurve all lapsed põlevad mingil hetkel lihtsalt läbi.</p>
 
                       <p>Samuti tahame kaasa aidata Eesti spordi arengule. Väikeriigina ei saa me lasta ühtegi talenti raisku ning spordikultuuri edenedes võime paari või paarikümne aasta pärast näha veelgi rohkem just meie sportlasi suurtel areenidel võistlemas.</p>
@@ -56,18 +69,15 @@
                       <p>Väljakutse on tohutu. Kuid me teame, et see on seda väärt, et meie enda sportlased saaksid oma potentsiaali täielikult ära kasutada.</p>
 
 
-
+</div></div>
                       
                       </div>
                 </div> {/* .et_pb_text */}
               </div> {/* .et_pb_column */}
-              <div className="et_pb_column et_pb_column_1_2 et_pb_column_2 vertical-align  et_pb_css_mix_blend_mode_passthrough et-last-child">
-                <div className="et_pb_module et_pb_image et_pb_image_0 et-waypoint et_pb_image_sticky">
-                  <span className="et_pb_image_wrap "><img loading="lazy" src="../../ts-uploads.azureedge.net/marketing/2018/06/MG_2094.jpg" alt="" title height="auto" width="auto" sizes="(max-width: 2500px) 100vw, 2500px" className="wp-image-1464" /></span>
-                </div>
-              </div> {/* .et_pb_column */}
+         
             </div> {/* .et_pb_row */}
           </div> {/* .et_pb_section */}
+         
           <div className="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
             <div id="get-started-form" className="et_pb_row et_pb_row_8">
               <div className="et_pb_column et_pb_column_4_4 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -117,8 +127,17 @@
               </div> {/* .et_pb_column */}
             </div> {/* .et_pb_row */}
           </div> {/* .et_pb_section */}		</div>{/* .et_builder_inner_content */}
-      </div>{/* .et-l */}
-    </div>{/* #et-boc */}
+      
+      
+      
+
+      
+      
+          <Section6/>
+          <Section7/>
+      
+      
+
     <span className="et_bloom_bottom_trigger" />					</div> {/* .entry-content */}
 </article>
 
