@@ -134,8 +134,7 @@ import { Link } from 'react-router-dom';
 <div className="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
 
 
-<div className="et_pb_text_inner"><h3 style={{textAlign: 'center'}}>Kas vajate pardaletulekuks täiendavat abi?</h3>
-<p style={{textAlign: 'center'}}>Külasta meie abikeskust saidil futzero.com, kust leiate tugiartiklid ja saate ühendust meie tugitiimiga.</p></div>
+
 </div>
 </div>
 
