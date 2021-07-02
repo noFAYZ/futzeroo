@@ -14,6 +14,7 @@ import Jalgpalliliidule from './components/Lahendused/Jalgpalliliidule';
 import Klubidele from './components/Lahendused/Klubidele';
 import Lapsevanemale from './components/Lahendused/Lapsevanemale';
 import Lahendused from './components/Lahendused/Lahendused';
+import Scroll from "./Scroll";
 export class Layout extends Component {
     loading = () => <div className="animated fadeIn pt-1 text-center">Loading...</div>
     render() {
@@ -27,7 +28,7 @@ export class Layout extends Component {
                     <div id="et-main-area">
 
                       <div id="main-content">
-
+                      <Scroll>
                         <Switch>
                           <Route path="/" exact> <Home/> </Route>
                           <Route path="/tootoad" ><Tootoad/> </Route>
@@ -43,7 +44,7 @@ export class Layout extends Component {
                           <Route  path="/lahendused" > <Lahendused/> </Route>
                           <Redirect to="/" />
                         </Switch>
-
+                      </Scroll>
                         <Footer />
                       </div>
                     </div>
